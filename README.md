@@ -19,3 +19,11 @@
 * From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 * Use R or Python or perform this task
 * Dataset : https://bit.ly/3kXTdox
+
+
+
+<h2>Task-6 : Prediction using Decision Tree Algorithm</h2>
+
+* Create the Decision Tree classifier and visualize it graphically.
+* The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
+* Dataset : https://bit.ly/3kXTdox
